@@ -1,0 +1,41 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Logs
+*.log
+
+# Build files
+dist/
+build/
+*.egg-info/
+
+# Environment variables
+.env
+
+# Mac/Linux hidden files
+.*.swp
+
+# Coverage
+.coverage
+htmlcov/
